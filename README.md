@@ -1,15 +1,16 @@
 # Scylla QMK Config
 
-Personal QMK keymap for the Bastard Keyboards Scylla.
-
-Based on [Bastardkb/qmk_userspace](https://github.com/Bastardkb/qmk_userspace).
+Personal QMK keymap for the Bastard Keyboards Scylla. Forked from [Bastardkb/qmk_userspace](https://github.com/Bastardkb/qmk_userspace).
 
 ## Layout
 
-6 layers: BASE, NAV, NUM, SYM, FUN, MEDIA
+Based on [Miryoku](https://github.com/manna-harbour/miryoku) with the following modifications:
 
-- Homerow mods (GACS)
-- Thumb keys: ESC/MEDIA, SPC/SYM, TAB/FUN | DEL/NUM, ENT/NAV, BSPC
+- **QWERTY** base layer instead of Colemak-DH
+- **Vim-style navigation** (hjkl = left/down/up/right) on NAV layer
+- **Programmer-friendly symbols** on right side of SYM layer
+- **Thumb rows**: Esc/MEDIA, Space/SYM, Tab/FUN | Del/NUM, Enter/NAV, Bksp
+- **LALT on both sides** (no AltGr on base layer to avoid accented characters)
 
 ## Build
 
