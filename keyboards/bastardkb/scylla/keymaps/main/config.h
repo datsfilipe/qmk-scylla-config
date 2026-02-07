@@ -20,6 +20,7 @@ LAYOUT_split_4x6_5( \
     KC_NO, K33,   K34,   K35,   K36,   KC_NO, K32,   KC_NO, KC_NO, K37 \
 )
 
+#define EEPROM_RESET
 #define TAPPING_TERM 200
 #define DYNAMIC_KEYMAP_LAYER_COUNT 8
 #define PERMISSIVE_HOLD
