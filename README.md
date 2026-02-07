@@ -6,6 +6,8 @@ Personal QMK keymap for the Bastard Keyboards Scylla. Forked from [Bastardkb/qmk
 
 Based on [Miryoku](https://github.com/manna-harbour/miryoku) with the following modifications:
 
+![Keymap](https://github.com/datsfilipe/zmk-config-corne/raw/main/keymap-drawer/corne.svg)
+
 - **QWERTY** base layer instead of Colemak-DH
 - **Vim-style navigation** (hjkl = left/down/up/right) on NAV layer
 - **Programmer-friendly symbols** on right side of SYM layer
